@@ -14,6 +14,6 @@ Interface Requirements:
  Speed- 2.4GHz ➢ Hard Disk- 50 GB
  Standard Mouse and Keyboard 
  2) Software Requirements: 
-➢ Operating System – Linux, Windows 
- Python
- OpenCV 
+  Operating System – Linux, Windows 
+  Python
+  OpenCV 
